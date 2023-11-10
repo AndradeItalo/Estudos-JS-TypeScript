@@ -56,3 +56,41 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.relogio{
+  font-size: 3em;
+}
+
+.pausado{
+  color: red;
+}
+
+.iniciar{
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  height: 30px;
+  cursor: pointer;
+}
+
+.pausar{
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  height: 30px;
+  cursor: pointer;
+}
+
+.zerar{
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  height: 30px;
+  cursor: pointer;
+}
